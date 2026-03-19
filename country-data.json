@@ -1,0 +1,66 @@
+[
+  {
+    "country": "Spain",
+    "tagline": "Spain: Where passion meets paradise in every sun-kissed street and flamenco beat.",
+    "top_places": "1. Barcelona - Iconic Gaud\u00ed architecture like Sagrada Fam\u00edlia. 2. Madrid - Royal Palace, Prado Museum. 3. Seville - Alc\u00e1zar Palace. 4. Granada - Alhambra fortress. 5. Toledo - Medieval city.",
+    "culture": "Greet with two cheek kisses; late dinners (9pm+); tipping optional 5-10%.",
+    "tips": "Best time: Spring/Fall. Budget: $90-220/day. EU: no visa needed. Watch for pickpockets.",
+    "food": "Paella, Jam\u00f3n Ib\u00e9rico, Tortilla Espa\u00f1ola, Gazpacho. Nightlife: Ibiza, Barcelona, Madrid."
+  },
+  {
+    "country": "Morocco",
+    "tagline": "Morocco: Where ancient medinas meet golden dunes in a tapestry of spice and color.",
+    "top_places": "1. Marrakech Medina. 2. Fes Medina. 3. Chefchaouen (Blue City). 4. Sahara Desert. 5. Ait Benhaddou.",
+    "culture": "Greet with 'Salaam alaikum'; dress modestly; use right hand; haggle in souks.",
+    "tips": "Best time: Mar-May/Sep-Oct. Budget: $50-100/day. 90 days visa-free for EU.",
+    "food": "Tagine, Couscous, Harira, Pastilla. Nightlife: Marrakech rooftops, Casablanca clubs."
+  },
+  {
+    "country": "Italy",
+    "tagline": "Italy: Where history whispers, cuisine captivates, and la dolce vita beckons.",
+    "top_places": "1. Rome. 2. Venice. 3. Florence. 4. Cinque Terre. 5. Amalfi Coast.",
+    "culture": "Greet with buongiorno; dress modestly in churches; don't rush meals.",
+    "tips": "Best time: Apr-Jun/Sep-Oct. Budget: $100-250/day. EU: free travel.",
+    "food": "Carbonara, Pizza Margherita, Gelato, Tiramis\u00f9. Nightlife: Rome Testaccio, Milan Navigli."
+  },
+  {
+    "country": "Mexico",
+    "tagline": "Mexico: Where ancient wonders meet vibrant beaches and flavors that ignite the soul.",
+    "top_places": "1. Chich\u00e9n Itz\u00e1. 2. Mexico City. 3. Tulum. 4. Oaxaca. 5. Guanajuato.",
+    "culture": "Greet with handshake/cheek kiss; tip 10-15%; use 'usted' formally.",
+    "tips": "Best time: Nov-Apr. Budget: $50-150/day. 180 days visa-free for EU.",
+    "food": "Tacos al Pastor, Mole Poblano, Cochinita Pibil, Churros. Nightlife: CDMX Roma/Condesa."
+  },
+  {
+    "country": "Japan",
+    "tagline": "Japan: Where ancient traditions meet futuristic wonders in perfect harmony.",
+    "top_places": "1. Kyoto. 2. Tokyo. 3. Mount Fuji. 4. Hiroshima & Miyajima. 5. Kanazawa.",
+    "culture": "Bow to greet; remove shoes indoors; never tip; stay quiet on trains.",
+    "tips": "Best time: Mar-May/Oct-Nov. Budget: $150-250/day. 90 days visa-free for EU.",
+    "food": "Sushi, Ramen, Tempura, Okonomiyaki. Nightlife: Tokyo Shibuya/Shinjuku, Osaka Dotonbori."
+  },
+  {
+    "country": "Thailand",
+    "tagline": "Thailand: Where ancient temples meet turquoise beaches in eternal paradise.",
+    "top_places": "1. Bangkok Grand Palace. 2. Chiang Mai. 3. Ayutthaya. 4. Railay Beach. 5. Khao Yai.",
+    "culture": "Perform wai greeting; cover up at temples; never touch heads or point feet.",
+    "tips": "Best time: Nov-Feb. Budget: $50-150/day. 60 days visa-free for EU.",
+    "food": "Pad Thai, Tom Yum, Green Curry, Som Tam. Nightlife: Bangkok Khao San Road, Koh Phangan."
+  },
+  {
+    "country": "Greece",
+    "tagline": "Greece: Cradle of civilization, where ancient wonders meet sun-kissed islands.",
+    "top_places": "1. Athens Acropolis. 2. Santorini. 3. Meteora. 4. Delphi. 5. Mykonos.",
+    "culture": "Firm handshake; bring gifts when visiting homes; 'siga siga' pace.",
+    "tips": "Best time: May-Jun/Sep-Oct. Budget: $100-250/day. EU: free Schengen travel.",
+    "food": "Souvlaki, Moussaka, Tzatziki, Grilled Octopus. Nightlife: Mykonos, Athens Psyrri."
+  },
+  {
+    "country": "Portugal",
+    "tagline": "Portugal: Where sun-kissed beaches meet timeless wonders and warm-hearted people.",
+    "top_places": "1. Lisbon. 2. Porto. 3. Sintra. 4. Algarve. 5. Douro Valley.",
+    "culture": "Handshake formal; two kisses for friends; never speak Spanish to Portuguese.",
+    "tips": "Best time: Apr-Jun/Sep-Oct. Budget: $100-200/day. EU: free travel.",
+    "food": "Past\u00e9is de Nata, Bacalhau, Francesinha, Sardinhas. Nightlife: Lisbon Bairro Alto, Porto Ribeira."
+  }
+]
